@@ -9,7 +9,7 @@
   - Make: Electronics (Charles Platt) => learning electronics from the ground up
   - Electronics / Embedded Software Engineering
 Technologies:
-![Javascript Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)      
+- ![Javascript Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)      
 <!---
 forhadzinnah/forhadzinnah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
