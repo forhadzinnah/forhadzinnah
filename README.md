@@ -2,6 +2,10 @@
 - 👀 I’m interested in the IoT, embedded software development, & web development.
 - 🌱 I’m currently learning:
   - How to build my own LISP using C
+  - Intermediate Git
+  - Vim
+  - Calculus 
+  - Intro to Programming w/ C++
   - Make: Electronics (Charles Platt) => learning electronics from the ground up
   - Electronics / Embedded Software Engineering      
 <!---
